@@ -2,7 +2,7 @@ title: Kakera
 description: Single-page application JS Framework
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-slate
+theme: jekyll-theme-cayman
 
 gems:
   - jekyll-mentions
